@@ -1,0 +1,7 @@
+{
+  "name": "Python-Solver",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
